@@ -1,0 +1,15 @@
+
+
+.navbar a{
+	color:#fff!important;
+}
+.atas {
+	background-image: url(img/background_header.png);
+	background-size: cover;
+	background-position: center center;
+	position: relative;;
+	z-index: -1;
+}
+.tengah {
+	margin: 100px;
+}
